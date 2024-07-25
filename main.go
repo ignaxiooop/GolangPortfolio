@@ -17,6 +17,6 @@ func main() {
 	// "MST" displays the time zone abbreviation
 	formattedtime := ahora.Format("15:04 PM MST")
 
-	fmt.Println("Hey! The current time is: " + formattedtime")
+	fmt.Println("Hey! The current time is: " + formattedtime)
 
 }
